@@ -1,5 +1,5 @@
 # cppjieba-vs
- cppjieba for Visual Studio.
+ cppjieba for Visual Studio on windows.
 
 
 Original project: [cppjieba](https://github.com/yanyiwu/cppjieba)
