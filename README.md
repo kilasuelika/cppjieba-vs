@@ -4,6 +4,8 @@
 
 Original project: #[cppjieba](https://github.com/yanyiwu/cppjieba)
 
+# Requirements
+C++20编译器。原Limonp中有一些函数使用了新标准中removed的函数，已被修改。
 
 # Usage
 把include文件夹添加到项目的additional include中，把dict放到项目文件夹中即可。
